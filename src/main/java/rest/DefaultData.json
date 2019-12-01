@@ -1,0 +1,26 @@
+[   
+    {
+        "seatNumber": {"12D":false,"13A":true, "14B":false,"15D":true,"17C":false,"18D":true,"22C":false,"23A":true,"16C":false,"24B":true,"24D":false},
+        "flightName":"Embraer E170",
+        "date": "02-12-2019",
+        "flightId" : "191",
+        "source" : "FRA",
+        "destination": "DEL",
+        "timing":"09:00",
+        "seatType":"Economy",
+        "mealType":"Vegan",
+        "flightType":"Embraer"
+    },
+    {
+        "seatNumber": {"12D":false,"13A":true, "14B":false,"15D":true,"17C":false,"18D":true,"22C":false,"23A":true,"16C":false,"24B":true,"24D":false},
+        "flightName":"Embraer E170",
+        "date": "02-12-2019",
+        "flightId" : "191",
+        "source" : "FRA",
+        "destination": "DEL",
+        "timing":"09:00",
+        "seatType":"Economy",
+        "mealType":"Vegan",
+        "flightType":"Embraer"
+    }
+]
